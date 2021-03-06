@@ -21,8 +21,8 @@ also I have another file with "[perceptron_algorithm.py](https://github.com/mahs
 
 The classification result:
 
-![Image](https://github.com/mahsawz/Perceptron-Algorithm/blob/main/result-perceptron.png)
+<img src="https://github.com/mahsawz/Perceptron-Algorithm/blob/main/result-perceptron.png" width="300" height="200">
 
 The error rate per iteration:
 
-![Image](https://github.com/mahsawz/Perceptron-Algorithm/blob/main/result-accuracy.png)
+<img src="https://github.com/mahsawz/Perceptron-Algorithm/blob/main/result-accuracy.png" width="300" height="200">
